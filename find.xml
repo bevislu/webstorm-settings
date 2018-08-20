@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="package.json" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.scss</mask>
       <mask>*.*</mask>
@@ -29,9 +23,18 @@
       <mask>pack.json</mask>
       <mask>packa.json</mask>
       <mask>packag.json</mask>
-      <mask>package.json</mask>
       <mask>*</mask>
       <mask>*.js</mask>
+      <mask>pa</mask>
+      <mask>pac</mask>
+      <mask>pack</mask>
+      <mask>packa</mask>
+      <mask>packag</mask>
+      <mask>package</mask>
+      <mask>package.</mask>
+      <mask>package.j</mask>
+      <mask>package.jso</mask>
+      <mask>package.json</mask>
     </recentFileMasks>
   </component>
 </application>
